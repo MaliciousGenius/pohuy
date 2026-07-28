@@ -342,6 +342,17 @@ npx skills add smixs/pohuy
 - [t0uchY](https://t.me/t0uchY)
 - [Mike Shevchenko](https://github.com/mikhashev)
 
+### Контрибуторы (issues)
+
+Словарь растёт народом. Красавчики, без пизды:
+
+- [@imitry](https://github.com/imitry) — «хуёвые дела», «ебись оно всё конём», «хуета какая-то» ([#1](https://github.com/smixs/pohuy/issues/1))
+- [@GomelHawk](https://github.com/GomelHawk) — «охуеть не встать», «пизда рулю», «хуйня из-под коня», «ебанина», «ёбушки-воробушки» плюс научная база ([#2](https://github.com/smixs/pohuy/issues/2), [#3](https://github.com/smixs/pohuy/issues/3))
+- [@mikhashev](https://github.com/mikhashev) — правило «family-directed ругательств нет вообще» ([#4](https://github.com/smixs/pohuy/issues/4))
+- [@MaliciousGenius](https://github.com/MaliciousGenius) — онтология предметной области: ЗАЛУПА по Луману ([#5](https://github.com/smixs/pohuy/issues/5))
+
+Не хватает рабочей фразы — заноси в [issues](https://github.com/smixs/pohuy/issues).
+
 ---
 
 <sub>MIT — не ебите головы.</sub>
