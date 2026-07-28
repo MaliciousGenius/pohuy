@@ -250,7 +250,7 @@ investigation", только сразу ясно.
   </a>
 </p>
 
-Репо, где матюки в комментах, получили у SoftWipe много больше баллов. [наука уже что-то, блядь, подозревает](https://habr.com/ru/news/722912/).
+Репо, где матюки в комментах, получили у SoftWipe много больше баллов. [наука уже что-то, блядь, подозревает](https://habr.com/ru/news/722912/), [Ars Technica подтверждает](https://arstechnica.com/science/2023/03/is-code-that-contains-swears-higher-quality-than-code-that-does-not/).
 
 В апрельской утечке Claude Code нашли `userPromptKeywords.ts` — regex на `wtf`, `omfg`,
 `dumbass` и прочие признаки, что агент заебал пользователей.  [мат считается
