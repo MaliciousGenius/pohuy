@@ -344,7 +344,7 @@ npx skills add smixs/pohuy
 
 ### Контрибуторы (issues)
 
-Словарь растёт народом. Красавчики, без пизды:
+Словарь растёт народом:
 
 - [@imitry](https://github.com/imitry) — «хуёвые дела», «ебись оно всё конём», «хуета какая-то» ([#1](https://github.com/smixs/pohuy/issues/1))
 - [@GomelHawk](https://github.com/GomelHawk) — «охуеть не встать», «пизда рулю», «хуйня из-под коня», «ебанина», «ёбушки-воробушки» плюс научная база ([#2](https://github.com/smixs/pohuy/issues/2), [#3](https://github.com/smixs/pohuy/issues/3))
