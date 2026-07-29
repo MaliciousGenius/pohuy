@@ -350,6 +350,7 @@ npx skills add smixs/pohuy
 - [@GomelHawk](https://github.com/GomelHawk) — «охуеть не встать», «пизда рулю», «хуйня из-под коня», «ебанина», «ёбушки-воробушки» плюс научная база ([#2](https://github.com/smixs/pohuy/issues/2), [#3](https://github.com/smixs/pohuy/issues/3))
 - [@mikhashev](https://github.com/mikhashev) — правило «family-directed ругательств нет вообще» ([#4](https://github.com/smixs/pohuy/issues/4))
 - [@MaliciousGenius](https://github.com/MaliciousGenius) — онтология предметной области: ЗАЛУПА по Луману ([#5](https://github.com/smixs/pohuy/issues/5))
+- [@maxonrock](https://github.com/maxonrock) — «ёбаный рот этого казино», «цирк с конями», «того всё ебал», «хуеверть» ([#6](https://github.com/smixs/pohuy/issues/6))
 
 Не хватает рабочей фразы — заноси в [issues](https://github.com/smixs/pohuy/issues).
 
