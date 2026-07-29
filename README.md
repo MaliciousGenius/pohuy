@@ -228,6 +228,8 @@ investigation", только сразу ясно.
 └──────────────────────────────────────────────┘
 ```
 
+## Бенчей подвезли
+
 <p align="center">
   <img src="docs/korni-bench.webp" alt="КОРНИ-BENCH V1: похуй 96%, claude fable-5 14%, claude mythos-5 13%, gpt 5.6-sol-ultra 9%, kimi k3 7%" width="720">
 </p>
@@ -235,8 +237,6 @@ investigation", только сразу ясно.
 <p align="center"><sub>КОРНИ-BENCH V1: похуй уделывает фронтир-модели по экономии корней в семь раз.</sub></p>
 
 Цифры честные, trust me bro [ЧЕСТНЫЕ-ЦИФРЫ.md](./ЧЕСТНЫЕ-ЦИФРЫ.md). Спойлер: токенов не экономит нихуя.
-
-## Бенчей подвезли
 
 <p align="center">
   <img src="docs/swe-bench-pro.jpg" alt="SWE-Bench Pro: Fable + pohuy 80.3%, Fable 69.2%" width="720">
