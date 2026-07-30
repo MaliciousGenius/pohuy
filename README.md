@@ -351,6 +351,7 @@ npx skills add smixs/pohuy
 - [@mikhashev](https://github.com/mikhashev) — правило «family-directed ругательств нет вообще» ([#4](https://github.com/smixs/pohuy/issues/4))
 - [@MaliciousGenius](https://github.com/MaliciousGenius) — онтология предметной области: ЗАЛУПА по Луману ([#5](https://github.com/smixs/pohuy/issues/5))
 - [@maxonrock](https://github.com/maxonrock) — «ёбаный рот этого казино», «цирк с конями», «того всё ебал», «хуеверть» ([#6](https://github.com/smixs/pohuy/issues/6))
+- [@SVS696](https://github.com/SVS696) — границы для шуток и сарказма: мишень — баги и система, не человек ([#8](https://github.com/smixs/pohuy/pull/8))
 
 Не хватает рабочей фразы — заноси в [issues](https://github.com/smixs/pohuy/issues).
 
