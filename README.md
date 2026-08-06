@@ -270,6 +270,19 @@ npx skills add smixs/pohuy
 
 ## **Включить:** `/pohuy` или скажи «та мне похуй / заебал». **Выключить:** «нормальный режим».
 
+## Насовсем: output style
+
+Плагин включается на сессию. Если хочешь, чтобы Claude Code так разговаривал
+всегда — ставь output style, одной командой:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/smixs/pohuy/main/install.sh | bash
+```
+
+Скрипт кладёт [output-styles/pohuy.md](./output-styles/pohuy.md) и скилл в `~/.claude/`,
+прописывает `"outputStyle": "Pohuy"` в `~/.claude/settings.json`. Перезапусти сессию — и всё.
+Вернуть обычный тон: `/output-style default`.
+
 ## Выбери калибр
 
 Три уровня. Переключение: `/pohuy <уровень>`. Держится до конца сессии.
