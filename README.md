@@ -280,8 +280,11 @@ curl -fsSL https://raw.githubusercontent.com/smixs/pohuy/main/install.sh | bash
 ```
 
 Скрипт кладёт [output-styles/pohuy.md](./output-styles/pohuy.md) и скилл в `~/.claude/`,
-прописывает `"outputStyle": "Pohuy"` в `~/.claude/settings.json`. Перезапусти сессию — и всё.
-Вернуть обычный тон: `/output-style default`.
+прописывает `"outputStyle": "Pohuy"` в `~/.claude/settings.json` и регистрирует
+[per-turn хук](./hooks/style-reminder.sh). Стиль написан в том же формате, что и
+родные стили Claude Code, а хук даёт ему то же ежеходовое подкрепление — харнесс
+воспринимает Pohuy как встроенный, и тон не выцветает даже к сотому ходу.
+Перезапусти сессию — и всё. Вернуть обычный тон: `/config` → Output style → `Default`.
 
 ## Выбери калибр
 
