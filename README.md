@@ -286,6 +286,28 @@ curl -fsSL https://raw.githubusercontent.com/smixs/pohuy/main/install.sh | bash
 воспринимает Pohuy как встроенный, и тон не выцветает даже к сотому ходу.
 Перезапусти сессию — и всё. Вернуть обычный тон: `/config` → Output style → `Default`.
 
+## Codex CLI
+
+Та же схема для OpenAI Codex CLI — одной командой:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/smixs/pohuy/main/install-codex.sh | bash
+```
+
+Скрипт дописывает секцию Pohuy в `~/.codex/AGENTS.md` (глобальные инструкции,
+грузятся каждую сессию; твоё содержимое файла не трогается — секция живёт между
+маркерами), кладёт словарь в `~/.codex/pohuy/references/` и регистрирует
+`UserPromptSubmit`-хук в `~/.codex/hooks.json` — то же ежеходовое подкрепление,
+что и в Claude Code. Обновление — та же команда. Снести:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/smixs/pohuy/main/install-codex.sh | bash -s -- --uninstall
+```
+
+Если хуки не срабатывают — включи их в `~/.codex/config.toml`:
+`[features]` → `codex_hooks = true`. Чтобы встроенный характер Codex не спорил
+с Pohuy, там же можно поставить `personality = "none"`.
+
 ## Выбери калибр
 
 Три уровня. Переключение: `/pohuy <уровень>`. Держится до конца сессии.
